@@ -110,3 +110,6 @@ Add external factors:
 Market news
 Economic indicators
 Deploy as a real-time prediction system
+
+
+project link :  https://colab.research.google.com/drive/15Q6pKT21evW5dm4yQafeX75jUtQFYL1m?usp=sharing 
